@@ -1,4 +1,4 @@
-package com.bny.bnyplatformstarter.health;
+package com.bny.platform.health;
 
 public class PlatformHealthController {
 }
